@@ -18,21 +18,25 @@
 
 ## Performance
 
-  - **Performance Mechanics #1** : Response Time
-
-  Sites lose half their visitors while loading. Speed index determines how long it takes for the visible content of a webpage to appear. Any webpage that **fail to load within 3 seconds** are known to **lose visitors**.
-
-  The research results are characterized as below
-
-  | Response Time | User Perception  | End Result |
-  | ------------- | ---------------- | ---------- |
-  | 0.1 second    | Direct Control   | User feels full control as holding a tool in hand. They will be willing to let the visual manifestation happen.  |
-  | 1 second      | Indirect Control | User notices the delay but still feels in control over the site experience. |
-  | 10 seconds    | Little Control   | The user loses attention and just moves on. Probably lost forever. |
+  - [Performance Mechanics #1 : Response Time](#performance-mechanics-#1-:-response-time-)
+  
   
 
 ## Security
 
+## Mechanics
+
+## **Performance Mechanics #1** : Response Time
+
+	Sites lose half their visitors while loading. Speed index determines how long it takes for the visible content of a webpage to appear. Any webpage that **fail to load within 3 seconds** are known to **lose visitors**.
+
+  	The research results are characterized as below
+
+  	| Response Time      | User Perception       | End Result |
+  	| ------------------ | --------------------- | ---------- |
+  	| 0.1 second         | Direct Control        | User feels full control as holding a tool in hand. They will be willing to let the visual manifestation happen.  |
+  	| 1 second           | Indirect Control      | User notices the delay but still feels in control over the site experience. |
+  	| 10 seconds         | Little Control        | The user loses attention and just moves on. Probably lost forever. |
 
 # Further Reading
 
@@ -42,13 +46,13 @@
 
 
   -  Identify ways to make your site faster 
-	- https://testmysite.io/
-	- https://www.webbloatscore.com/
-	- https://gtmetrix.com/
-	- https://tools.monitorlive.co/
-	- https://tools.pingdom.com/
-	- https://developers.google.com/speed/pagespeed/insights/
-	- https://www.webpagetest.org/
+    - https://testmysite.io/
+    - https://www.webbloatscore.com/
+    - https://gtmetrix.com/
+    - https://tools.monitorlive.co/
+    - https://tools.pingdom.com/
+    - https://developers.google.com/speed/pagespeed/insights/
+    - https://www.webpagetest.org/
 
 
 
