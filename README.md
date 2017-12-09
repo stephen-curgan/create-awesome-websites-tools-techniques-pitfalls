@@ -26,7 +26,7 @@
 
 ## Mechanics
 
-## **Performance Mechanics 1** Response Time
+## **Performance Mechanics 1** : Response Time
 
   Sites lose half their visitors while loading. Speed index determines how long it takes for the visible content of a webpage to appear. Any webpage that **fail to load within 3 seconds** are known to **lose visitors**.
 
