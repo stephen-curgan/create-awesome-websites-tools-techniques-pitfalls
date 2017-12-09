@@ -18,17 +18,17 @@ Who would not want it ?
 
 ## Performance
 
-- *Performance Mechanics #1* : Response Time
+- **Performance Mechanics #1** : Response Time
 
-Sites lose half their visitors while loading. Speed index determines how long it takes for the visible content of a webpage to appear. Any webpage that fail to load within *3 seconds* are known to lose visitors.
+Sites lose half their visitors while loading. Speed index determines how long it takes for the visible content of a webpage to appear. Any webpage that **fail to load within 3 seconds** are known to **lose visitors**.
 
 The research results are characterized as below
 
-| Response Time | User Perception | End Result |
-| ------------- | ------------- | ----- |
-| 0.1 second | Direct Control | User feels full control as holding a tool in hand. They will be willing to let the visual manifestation happen.  |
-| 1 second | Indirect Control | User notices the delay but still feels in control over the site experience. |
-| 10 seconds | Little Control | The user loses attention and just moves on. Probably lost forever. |
+| Response Time | User Perception  | End Result |
+| ------------- | ---------------- | ---------- |
+| 0.1 second    | Direct Control   | User feels full control as holding a tool in hand. They will be willing to let the visual manifestation happen.  |
+| 1 second      | Indirect Control | User notices the delay but still feels in control over the site experience. |
+| 10 seconds    | Little Control   | The user loses attention and just moves on. Probably lost forever. |
 
 
 ## Security
