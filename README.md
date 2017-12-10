@@ -1,6 +1,6 @@
 # Create a stunning, well performing and secure website
 
-  A truly stunning website means, somebody has got all  elements of interaction play out to engage a conversation with user behaviour to leave an intended perception irrespective of the medium/device used. 
+  A truly stunning website means, somebody has got all  elements of interaction play out to engage a conversation with user behaviour, leaving the intended perception, irrespective of the medium/device used. 
 
   Let me break this down. It's an attempt to provide a checklist of activities, tools, techniques, mechanics, tips and approach to make a stunning, secure and well performing website. 
 
@@ -12,8 +12,8 @@
   - [Interaction Design](#interaction-design-)
   - [Performance](#performance-)
   - [Security](#security-)
-  - [Reputation](#reputation-)	
-  - [SEO](#seo-)	
+  - [SEO](#seo-)
+  - [Reputation](#reputation-)		
 
 ## Story 1 - Interaction Design
 
@@ -45,9 +45,9 @@
 
 #### **Peformance Goal 1** : Response Time
 
-![it's doable, trust me !](img/target-three-seconds.jpg)
+![it's doable, trust me !](img/your-goal-is-3-seconds.svg)
 
-You need to **make your pages load in less than 3 seconds** for any user from anywhere every single time. 
+You need to **make your pages load in less than 3 seconds** for every user from anywhere every single time. 
 
 
 # Further Reading
