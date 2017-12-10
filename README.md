@@ -7,13 +7,22 @@
   Who would not want it ?
 
 
-# 5 Big Stories
+# 5 Great Lessons
+
+  Lets start with the bigger picture and show how all the smaller ideas fit into.
 
   - [Interaction Design](#interaction-design-)
   - [Performance](#performance-)
   - [Security](#security-)
   - [SEO](#seo-)
-  - [Reputation](#reputation-)		
+  - [Reputation](#reputation-)	
+
+  #### Basics
+
+  - It takes users 0.05 seconds to decide if a website is worth their time
+  - When decide to stay, they usually leave within 2-4 minutes
+  - Too many interface objects actually impede decision-making 
+  - Words are foundation for interactions	
 
 ## Story 1 - Interaction Design
 
