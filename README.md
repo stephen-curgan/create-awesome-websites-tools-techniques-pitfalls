@@ -1,6 +1,6 @@
 # Create a stunning, well performing and secure website
 
-  A truly stunning website means, somebody has got all  elements of interaction play out to engage a conversation with user behaviour to leave an intended perception irrespective of the medium  used. 
+  A truly stunning website means, somebody has got all  elements of interaction play out to engage a conversation with user behaviour to leave an intended perception irrespective of the medium/device used. 
 
   Let me break this down. It's an attempt to provide a checklist of activities, tools, techniques, mechanics, tips and approach to make a stunning, secure and well performing website. 
 
@@ -43,9 +43,11 @@
   | 1 second           | Indirect Control      | User notices the delay but still feels in control over the site experience. |
   | 10 seconds         | Little Control        | The user loses attention and just moves on. Probably lost forever. |
 
-#### Target
+#### **Peformance Goal 1** : Response Time
 
 ![it's doable, trust me !](img/target-three-seconds.jpg)
+
+You need to **make your pages load in less than 3 seconds** for any user from anywhere every single time. 
 
 
 # Further Reading
@@ -57,11 +59,11 @@
 
   -  Identify ways to make your site faster 
     	- https://testmysite.io/
-    	- https://www.webbloatscore.com/
-    	- https://gtmetrix.com/
     	- https://tools.monitorlive.co/
-    	- https://tools.pingdom.com/
     	- https://developers.google.com/speed/pagespeed/insights/
+		- https://www.webbloatscore.com/
+    	- https://tools.pingdom.com/
+    	- https://gtmetrix.com/
     	- https://www.webpagetest.org/
 
 
