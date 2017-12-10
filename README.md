@@ -39,9 +39,14 @@
 
   | Response Time      | User Perception       | End Result |
   | ------------------ | --------------------- | ---------- |
-  | 0.1 second         | Direct Control        | User feels full control as holding a tool in hand. They will be willing to let the visual manifestation happen.  |
+  | 0.1 second         | Direct Control        | User feels full control as holding a tool in hand hence will let the visual manifestation happen.  |
   | 1 second           | Indirect Control      | User notices the delay but still feels in control over the site experience. |
   | 10 seconds         | Little Control        | The user loses attention and just moves on. Probably lost forever. |
+
+#### Target
+
+![it's doable, trust me !](img/target-three-seconds.jpg)
+
 
 # Further Reading
 
