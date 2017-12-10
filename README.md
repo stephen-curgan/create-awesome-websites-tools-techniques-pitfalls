@@ -1,4 +1,4 @@
-# How to create a stunning, well performing and secure website
+# Create a stunning, well performing and secure website
 
   A truly stunning website means, somebody has got all  elements of interaction play out to engage a conversation with user behaviour to leave an intended perception irrespective of the medium  used. 
 
