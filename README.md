@@ -7,22 +7,27 @@
   Who would not want it ?
 
 
-# Focus Areas
+# Five Big Stories
 
   - [Interaction Design](#interaction-design-)
   - [Performance](#performance-)
-  - [Security](#security-)	
+  - [Security](#security-)
+  - [Reputation](#reputation-)	
+  - [SEO](#seo-)	
 
-## Interaction Design
+## Story 1 - Interaction Design
 
 
-## Performance
+## Story 2 - Performance
 
   - [Performance Mechanics 1 : Response Time](#performance-mechanics-1-response-time-)
-  
-  
+   
 
-## Security
+## Story 3 - Security
+
+## Story 4 - Reputation
+
+## Story 5 - SEO
 
 ## Mechanics
 
@@ -46,13 +51,13 @@
 
 
   -  Identify ways to make your site faster 
-    - https://testmysite.io/
-    - https://www.webbloatscore.com/
-    - https://gtmetrix.com/
-    - https://tools.monitorlive.co/
-    - https://tools.pingdom.com/
-    - https://developers.google.com/speed/pagespeed/insights/
-    - https://www.webpagetest.org/
+    	- https://testmysite.io/
+    	- https://www.webbloatscore.com/
+    	- https://gtmetrix.com/
+    	- https://tools.monitorlive.co/
+    	- https://tools.pingdom.com/
+    	- https://developers.google.com/speed/pagespeed/insights/
+    	- https://www.webpagetest.org/
 
 
 
